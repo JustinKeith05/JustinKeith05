@@ -1,17 +1,19 @@
-## Hi, I'm Justin Caubang!
+<div style="text-align: center;">
+ <img src="/Introduction%20Gif%20(2)%20(1)%20(1)%20(1).gif" alt="Introduction Gif" style="width: 100%;"/>
+</div>
 
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+## Hi, I'm Justin Caubang!
 👨🏻‍💻 Software Engineer <br/>
 🎓 B.S. Software Engineer at Arizona State University <br/>
 🇺🇸 Based in Chandler, AZ. 
 
-<br/>
 
-
-## 📥 Contact :
+## 📥 Contact : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Justin-Caubang) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caubang.justin@gmail.com)
 
- <br/>
+
  
 ## 💻 Skills:
 
@@ -44,8 +46,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-<br/>
-<br/>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 
 # 📊 GitHub Stats:
