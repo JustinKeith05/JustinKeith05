@@ -4,16 +4,15 @@
 🎓 B.S. Software Engineer at Arizona State University <br/>
 🇺🇸 Based in Chandler, AZ. 
 
+<br/>
 
-<!--## 
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Justin-Caubang) 
- -->
+
+## 📥 Contact :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Justin-Caubang) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caubang.justin@gmail.com)
 
  <br/>
- <br/>
-
-
+ 
 ## 💻 Skills:
 
 #### Languages
