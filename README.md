@@ -1,6 +1,5 @@
-<div style="text-align: center;">
- <img src="/Introduction%20Gif%20(2)%20(1)%20(1)%20(1).gif" alt="Introduction Gif" style="width: 100%;"/>
-</div>
+
+
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ## Hi, I'm Justin Caubang!
