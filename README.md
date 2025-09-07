@@ -5,7 +5,7 @@
 ## Hi, I'm Justin Caubang!
 👨🏻‍💻 Software Engineer <br/>
 🎓 B.S. Software Engineer at Arizona State University <br/>
-🇺🇸 Based in Chandler, AZ. 
+📌 Based in Chandler, AZ. 
 
 
 ## 📥 Contact : 
